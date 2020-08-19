@@ -1,0 +1,42 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: "Alata";
+  margin: 2em;
+  background: #f5e6c1;
+}
+
+h1 {
+  font-style: italic;
+  color: #000000//;
+  font-size: 40px;
+}
+
+h2 {
+  margin-top: 2em; 
+  font-size: 30px;
+}
+
+.question {
+  display: flex;
+  margin-top: 2em;
+  width: 400px;
+}
+  
+.answer-choice img {
+  height: 15em;
+  padding: 10px;
+}
+
+button{
+color: #ffffff;
+  border:  2px white;
+    background: black;
+  font-size: 30px;
+  align: center;
+  padding: 10px;
+  font-family: "Alata";
+}
+
+
+
